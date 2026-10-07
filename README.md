@@ -100,7 +100,7 @@ Tools I have used include:
 - **limma** for statistical analysis of high-dimensional biological data;
 - **LinDA / MicrobiomeStat** for differential-abundance analysis of microbiome data;
 - **vegan** for ecological and multivariate community analysis; and
-- **QIIME 2** for microbiome and amplicon-sequencing analysis.
+- **QIIME 2** for amplicon sequence variant analysis.
 
 I use **R** extensively for statistical analysis, integration of experimental and sequencing data, exploratory analysis, visualization, and preparation of publication-quality results.
 
